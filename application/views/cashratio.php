@@ -296,7 +296,7 @@
 												</div>
 												<div class="form-group">
 													<label>Efek</label>
-													<input type="number" class="form-control" name="efek" id="kas" placeholder="Masukkan Nilai Efek">
+													<input type="number" class="form-control" name="efek" id="efek" placeholder="Masukkan Nilai Efek">
 												</div>
 												<div class="form-group">
 													<label>Hutang Lancar</label>
